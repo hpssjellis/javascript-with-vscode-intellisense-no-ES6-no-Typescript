@@ -1,6 +1,7 @@
 
- // To run as a webpage change extension form.ts to .html
- // The comment out the line below
+ // To run as a webpage 
+ // The comment out the import lines below. 
+ // To use IntelliSense uncomment the import lines
 
 //import * as dl from 'deeplearn';  
 //import * as squeezenet from 'deeplearn-squeezenet';
