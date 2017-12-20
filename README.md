@@ -9,6 +9,20 @@ Youtube video instructions at
 https://youtu.be/aq4JByHZt9E
 
 
+
+
+
+
+
+[![Instructional video](http://img.youtube.com/vi/aq4JByHZt9E/0.jpg)](https://youtu.be/aq4JByHZt9E)
+
+
+
+
+
+
+
+
 1. Load vscode
 
 2. Yarn prep
